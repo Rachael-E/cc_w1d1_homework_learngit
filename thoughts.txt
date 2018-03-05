@@ -1,3 +1,5 @@
 It's the end of Day 1 at CodeClan!
 
 Today we had the induction, I went to Philpotts for lunch, and then we looked at Unix and Git and GitHub.
+
+It's all new concepts but feels good to be learning and testing things in a logical manner! 
